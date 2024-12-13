@@ -50,5 +50,18 @@ A full-stack CRUD (Create, Read, Update, Delete) application with a React.js fro
 - PUT /api/users/{id} - Update user.
 - DELETE /api/users/{id} - Delete user.
 
+## Snapshots
+![image](https://github.com/user-attachments/assets/0dfd3c20-be8a-40be-8288-e3878a607a07)
+
+![image](https://github.com/user-attachments/assets/4092fff6-cbd4-4add-b1b6-8eea6326039c)
+
+![image](https://github.com/user-attachments/assets/4998d8a3-dd2c-4720-93c7-c28cb2a3df08)
+
+
+
+
+
+
 ## Drive Link
-Please find drive link to screen recording
+https://drive.google.com/drive/folders/1ZD2vRIA_smq13ry5GRjGK_jVyCFKGqTz?usp=drive_link
+-Please find drive link to screen recording
